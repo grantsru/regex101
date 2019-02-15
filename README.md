@@ -1,5 +1,5 @@
 # Regular Expressions 101
-All information from a Udemy tutorial.
+All information from a Udemy tutorial. Course can be found here: https://www.udemy.com/learn-regular-expressions-in-online-regex-course/learn/v4/
 
 ## What is a regular expression?
 It is a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
